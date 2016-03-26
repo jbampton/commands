@@ -4,6 +4,8 @@ In the classic Sci-Fi movie [Tron Legacy](https://en.wikipedia.org/wiki/Tron:_Le
 
 ###whoami
 
+Have a look at [whoami in action](https://youtu.be/bTNY3Y0UCpA) video. 
+
 On OS X, whoami is obseleted by the id utility. The next command is the same as whoami:
 
 ###id -un
